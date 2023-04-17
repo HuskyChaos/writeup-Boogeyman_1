@@ -111,6 +111,6 @@ the password we found to get our final answer.
         ```  
     4. Copy the output in cyberchef with hex decoder.
     5. Save the output to a file with the extenssion `.kdbx`  
-    6. `keepass2 {filename}}.kdbx`
+    6. `keepass2 {filename}.kdbx`
     7. Enter the password from previous question.
     8. Right click on `company Card` > Copy Field > Account Number.
