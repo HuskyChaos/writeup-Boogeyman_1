@@ -97,7 +97,7 @@ Ans : To answer this, we need all the output from the attackers commands.
         ```  
     5. `python3 script.py > res.txt`
     6. `mousepad res.txt`
-    7. Find the word `Password` and look around.
+    7. Use Find and look for the word `Password`.
 
 5. What is the credit card number stored inside the exfiltrated file?  
 Ans : We know how the data was split and transfered over so we just need to put the pieces back together and use 
